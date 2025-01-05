@@ -9,9 +9,9 @@ This project consists of two microservices: a backend service and a frontend ser
 │ ├── backend.py 
 │ ├── Dockerfile 
 │ └── requirements.txt 
-└── frontend/ 
-├── frontend.py 
-├── Dockerfile 
-└── requirements.txt
+├── frontend/ 
+| ├── frontend.py 
+| ├── Dockerfile 
+| └── requirements.txt
 ├── docker-compose.yaml
 ```
